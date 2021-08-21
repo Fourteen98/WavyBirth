@@ -3,7 +3,7 @@
 
 <head>
     
-    <title>Home Page - Online Birth Certificate System</title>
+    <title>Home Page - Wavy Birth Registration</title>
 
 
     <!-- Core Stylesheet -->
@@ -32,7 +32,7 @@
             <div class="row h-100">
                 <div class="col-12 h-100">
                     <nav class="h-100 navbar navbar-expand-lg align-items-center">
-                        <a class="navbar-brand" href="index.php">OBCS</a>
+                        <a class="navbar-brand" href="index.php">Wavy Birth Registration</a>
                         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#fancyNav" aria-controls="fancyNav" aria-expanded="false" aria-label="Toggle navigation"><span class="ti-menu"></span></button>
                         <div class="collapse navbar-collapse" id="fancyNav">
                             <ul class="navbar-nav ml-auto">
@@ -77,7 +77,7 @@
                             <!-- Copywrite Text -->
                             <div class="copywrite-text">
                                 <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> Online Birth Certificate System @@ 2020
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> Wavy Birth Registration @@ 2021
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                             </div>
                             <!-- Footer Nav -->

@@ -14,7 +14,7 @@ if (strlen($_SESSION['obcsuid']==0)) {
 
 <head>
    
-    <title>Manage Application Form | Online Birth Certificate System</title>
+    <title>Manage Application Form | Wavy Birth Registration</title>
   
     <!-- Google Fonts
 		============================================ -->

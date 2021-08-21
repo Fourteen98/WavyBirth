@@ -31,7 +31,7 @@ $query->execute();
 
 <head>
    
-    <title>Profile | Online Birth Certificate System</title>
+    <title>Profile | Wavy Birth Registration</title>
    
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i,800" rel="stylesheet">
     <!-- Bootstrap CSS

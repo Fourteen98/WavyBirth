@@ -44,7 +44,7 @@ echo '<script>alert("Your current password is wrong")</script>';
 
 <head>
    
-    <title>Change Password | Online Birth Certificate System</title>
+    <title>Change Password |  Wavy Birth Registration</title>
    
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i,800" rel="stylesheet">
     <!-- Bootstrap CSS

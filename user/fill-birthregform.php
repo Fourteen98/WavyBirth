@@ -68,7 +68,7 @@ echo "<script>alert('Date of Birth and Father Name is  already exist. Please try
 
 <head>
    
-    <title>Birth Certificate Form | Online Birth Certificate System</title>
+    <title>Birth Certificate Form | Wavy Birth Registration</title>
    
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i,800" rel="stylesheet">
     <!-- Bootstrap CSS

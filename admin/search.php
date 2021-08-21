@@ -14,7 +14,7 @@ if (strlen($_SESSION['obcsaid']==0)) {
 
 <head>
    
-    <title>Search | Online Birth Certificate System</title>
+    <title>Search | Wavy Birth Registration</title>
   
     <!-- Google Fonts
 		============================================ -->

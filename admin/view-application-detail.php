@@ -34,7 +34,7 @@ $query->bindParam(':vid',$vid,PDO::PARAM_STR);
 
 <head>
    
-    <title>Manage Application Form | Online Birth Certificate System</title>
+    <title>Manage Application Form | Wavy Birth Registration</title>
   
     <!-- Google Fonts
 		============================================ -->

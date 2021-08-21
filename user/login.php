@@ -33,7 +33,7 @@ echo "<script>alert('Invalid Details');</script>";
 
 <head>
     
-    <title>Login | Online Birth Certificate System</title>
+    <title>Login | Wavy Birth Registration</title>
    
     <!-- Google Fonts
 		============================================ -->
@@ -150,7 +150,7 @@ echo "<script>alert('Invalid Details');</script>";
                                             </div>
                                             <p><a href="register.php">Don't have an account ? Sign Up</a></p>
                                         </div>
-<p style="text-align: center;"><a href="../index.php">Back Home!!!</a></p>
+<p style="text-align: center;"><a href="../index.php">Back To Home!!!</a></p>
                                     </div>
                                 </div>
                             </div>

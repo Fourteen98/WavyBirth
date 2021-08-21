@@ -45,7 +45,7 @@ echo "<script>alert('Invalid Details');</script>";
 
 <head>
     
-    <title>Login | Online Birth Certificate System</title>
+    <title>Login | Wavy Birth Registration</title>
    
     <!-- Google Fonts
 		============================================ -->

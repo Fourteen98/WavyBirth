@@ -51,7 +51,7 @@ echo "<script>alert('This Mobile Number already exist. Please try again');</scri
 
 <head>
     
-    <title>Register | Online Birth Certificate System</title>
+    <title>Register | Wavy Birth Registration</title>
    
 		
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i,800" rel="stylesheet">

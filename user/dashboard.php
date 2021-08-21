@@ -14,7 +14,7 @@ if (strlen($_SESSION['obcsuid']==0)) {
 
 <head>
   
-    <title>Dashboard | Online Birth Certificate System</title>
+    <title>Dashboard | Wavy Birth Registration</title>
     
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,700,700i,800" rel="stylesheet">
     <!-- Bootstrap CSS
@@ -113,7 +113,7 @@ if($query->rowCount() > 0)
 foreach($results as $row)
 {               ?> 
                                         <div class="main-income-phara">
-                                           <h2>Welcome to Online Birth Certificate Registration <?php  echo $row->FirstName;?>  <?php  echo $row->LastName;?>!!!</h2>
+                                           <h2>Welcome to Wavy Birth Registration <?php  echo $row->FirstName;?>  <?php  echo $row->LastName;?>!!!</h2>
                                         </div>
                                         <?php $cnt=$cnt+1;}} ?>
                                     </div>

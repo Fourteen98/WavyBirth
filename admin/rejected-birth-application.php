@@ -14,7 +14,7 @@ if (strlen($_SESSION['obcsaid']==0)) {
 
 <head>
    
-    <title>Rejected Application | Online Birth Certificate System</title>
+    <title>Rejected Application | Wavy Birth Registration</title>
   
     <!-- Google Fonts
 		============================================ -->
